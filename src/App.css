@@ -1,0 +1,41 @@
+.colorblack{
+    color: black !important;
+}
+.bold{
+    font-weight: bolder;
+}
+.bgk{
+    background-color: #f3f3f3 !important;
+}
+label{
+    color: black;
+}
+
+.demoImage{
+    max-width:120px !important;
+    max-height:100px !important;
+    margin:5px 20px 0px 0px !important;
+}
+
+
+.ant-tabs-tab-active{
+    background-color: orange !important;
+}
+
+.ant-tabs-tab-active .ant-tabs-tab-btn{
+    color:white !important;
+}
+
+.ant-tabs-tab .ant-tabs-tab-btn:hover{
+    color:orange !important;
+}
+
+.ant-tabs-tab-active .ant-tabs-tab-btn:hover{
+    color:white !important;
+}
+
+.sidebar{
+    height: 100vh !important;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
